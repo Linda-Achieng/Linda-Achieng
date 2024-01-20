@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new ideas and exploring in tech field.
 - 🌱 I’m currently learning javascript, html and SQL
 - 💞️ I’m looking to collaborate on big projects 
-- 📫 How to reach me on github achienglinda216@gmail.com
+- 📫 How to reach me on github Linda-Achieng
 - ⚡ Fun fact  
 
 <!---
